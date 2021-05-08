@@ -48,7 +48,7 @@
     "bootstrap": "^4.0.0",
     "source-map-support": "^0.5.6",
     "sqlite3": "^4.0.0",
-    "typeorm": "0.2.14",
+    "typeorm": "0.2.25",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
